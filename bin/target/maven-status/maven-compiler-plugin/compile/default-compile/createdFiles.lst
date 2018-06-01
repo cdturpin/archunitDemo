@@ -1,0 +1,11 @@
+com\keyholesoftware\archunit\demo\datasource\EmbeddedDatasourceConfig.class
+com\keyholesoftware\archunit\demo\service\ServiceImpl.class
+com\keyholesoftware\archunit\demo\exception\ResourceNotFoundException.class
+com\keyholesoftware\archunit\demo\domain\Product.class
+com\keyholesoftware\archunit\demo\Application.class
+com\keyholesoftware\archunit\demo\service\ServiceInterface.class
+com\keyholesoftware\archunit\demo\domain\Style.class
+com\keyholesoftware\archunit\demo\controller\AController.class
+com\keyholesoftware\archunit\demo\datasource\DatasourceConfig.class
+com\keyholesoftware\archunit\demo\repository\Repository.class
+com\keyholesoftware\archunit\demo\config\SpringRootConfig.class

@@ -1,0 +1,11 @@
+com\keyholesoftware\archunit\demo\domain\ProductTest.class
+com\keyholesoftware\archunit\demo\repository\RepositoryTest.class
+com\keyholesoftware\archunit\demo\controller\ControllerTest.class
+com\keyholesoftware\archunit\demo\LocationOfClass$Provider.class
+com\keyholesoftware\archunit\demo\config\SpringRootConfigTest.class
+com\keyholesoftware\archunit\demo\domain\StyleTest.class
+com\keyholesoftware\archunit\demo\LocationOfClass.class
+src\test\java\com\keyholesoftware\archunit\demo\architecture\LayeredArchRulesTest.class
+com\keyholesoftware\archunit\demo\exception\ResourceNotFoundExceptionTest.class
+com\keyholesoftware\archunit\demo\datasource\DatasourceConfigTest.class
+com\keyholesoftware\archunit\demo\datasource\EmbeddedDatasourceConfigTest.class
