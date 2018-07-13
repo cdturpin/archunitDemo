@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.keyholesoftware.archunit.demo.config.SpringRootConfigTest" time="0.088" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.keyholesoftware.demo.archunit.config.SpringRootConfigTest" time="0.088" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="54.0"/>
   </properties>
-  <testcase name="test" classname="com.keyholesoftware.archunit.demo.config.SpringRootConfigTest" time="0.01">
+  <testcase name="test" classname="com.keyholesoftware.demo.archunit.config.SpringRootConfigTest" time="0.01">
     <failure message="Not yet implemented" type="java.lang.AssertionError">java.lang.AssertionError: Not yet implemented
-	at com.keyholesoftware.archunit.demo.config.SpringRootConfigTest.test(SpringRootConfigTest.java:12)
+	at com.keyholesoftware.demo.archunit.config.SpringRootConfigTest.test(SpringRootConfigTest.java:12)
 </failure>
   </testcase>
 </testsuite>

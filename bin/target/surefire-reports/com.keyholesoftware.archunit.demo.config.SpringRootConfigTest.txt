@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
-Test set: com.keyholesoftware.archunit.demo.config.SpringRootConfigTest
+Test set: com.keyholesoftware.demo.archunit.config.SpringRootConfigTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.088 s <<< FAILURE! - in com.keyholesoftware.archunit.demo.config.SpringRootConfigTest
-test(com.keyholesoftware.archunit.demo.config.SpringRootConfigTest)  Time elapsed: 0.01 s  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.088 s <<< FAILURE! - in com.keyholesoftware.demo.archunit.config.SpringRootConfigTest
+test(com.keyholesoftware.demo.archunit.config.SpringRootConfigTest)  Time elapsed: 0.01 s  <<< FAILURE!
 java.lang.AssertionError: Not yet implemented
-	at com.keyholesoftware.archunit.demo.config.SpringRootConfigTest.test(SpringRootConfigTest.java:12)
+	at com.keyholesoftware.demo.archunit.config.SpringRootConfigTest.test(SpringRootConfigTest.java:12)
 

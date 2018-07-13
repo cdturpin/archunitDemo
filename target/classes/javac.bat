@@ -1,0 +1,1 @@
+cmd.exe /X /C "C:\softwaredistribution\oracle\jdk1.8.0_162\bin\javac @C:/softwaredistribution/workspace-photon/archunitDemo/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler60241035754257812arguments"
